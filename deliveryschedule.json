@@ -20,11 +20,11 @@
 				"Products" : [
 					{
 						"ProductCode" : "P11111",
-						"Qty" : 2,
+						"Qty" : 2
 					},
 					{
 						"ProductCode" : "P11112",
-						"Qty" : 3,
+						"Qty" : 3
 					}
 				],
 			}
@@ -49,11 +49,11 @@
 				"Products" : [
 					{
 						"ProductCode" : "P11113",
-						"Qty" : 2,
+						"Qty" : 2
 					},
 					{
 						"ProductCode" : "P11114",
-						"Qty" : 3,
+						"Qty" : 3
 					}
 				],
 			}
@@ -78,11 +78,11 @@
 				"Products" : [
 					{
 						"ProductCode" : "P11113",
-						"Qty" : 2,
+						"Qty" : 2
 					},
 					{
 						"ProductCode" : "P11114",
-						"Qty" : 3,
+						"Qty" : 3
 					}
 				],
 			}
