@@ -4,7 +4,7 @@
 		{
 		"deliveryScheduleId" : 1,
 		"ERP_DriverId" : 1,
-		"deliveryDate" : "2021-03-17T00:00:00",
+		"deliveryDate" : "2021-03-17",
 		"shift" : "Morning",
 		"orders":[	
 			{
@@ -12,7 +12,7 @@
 				"RecipientName" : "Steven",
 				"RecipientMobile" : "99998888",
 				"DeliveryAddress" : "Blk 11, Hougang Ave 111, #11-999, Singapore 222222",
-				"deliveryDate" : "2021-03-17T00:00:00",
+				"deliveryDate" : "2021-03-17",
 				"DeliveryTime" : "10:00AM",
 				"RemarksForDriver" : "Please deliver at doorstep",
 				"Portal_Order_ID" : "1",
@@ -33,7 +33,7 @@
 		{
 		"deliveryScheduleId" : 2,
 		"ERP_DriverId" : 1,
-		"deliveryDate" : "2021-03-18T00:00:00",
+		"deliveryDate" : "2021-03-18",
 		"shift" : "Evening",
 		"orders":[	
 			{
@@ -41,7 +41,7 @@
 				"RecipientName" : "David",
 				"RecipientMobile" : "99998888",
 				"DeliveryAddress" : "Blk 11, Hougang Ave 111, #11-999, Singapore 222222",
-				"deliveryDate" : "2021-03-18T00:00:00",
+				"deliveryDate" : "2021-03-18",
 				"DeliveryTime" : "12:30PM",
 				"RemarksForDriver" : "Please deliver at doorstep",
 				"Portal_Order_ID" : "1",
@@ -62,7 +62,7 @@
 		{
 		"deliveryScheduleId" : 3,
 		"ERP_DriverId" : 1,
-		"deliveryDate" : "2021-03-19T00:00:00",
+		"deliveryDate" : "2021-03-19",
 		"shift" : "Evening",
 		"orders":[	
 			{
@@ -70,7 +70,7 @@
 				"RecipientName" : "David",
 				"RecipientMobile" : "99998888",
 				"DeliveryAddress" : "Blk 11, Hougang Ave 111, #11-999, Singapore 222222",
-				"deliveryDate" : "2021-03-19T00:00:00",
+				"deliveryDate" : "2021-03-19",
 				"DeliveryTime" : "05:30PM",
 				"RemarksForDriver" : "Please deliver at doorstep",
 				"Portal_Order_ID" : "1",
