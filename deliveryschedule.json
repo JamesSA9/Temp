@@ -1,0 +1,63 @@
+{
+	"code":1,
+	"data":[
+		{
+		"deliveryScheduleId" : 1,
+		"ERP_DriverId" : 1,
+		"deliveryDate" : "2021-03-16T00:00:00.000",
+		"shift" : "Morning",
+		"orders":[	
+			{
+				"ERP_DO_Id" : "DO111111",
+				"RecipientName" : "Steven",
+				"RecipientMobile" : "99998888",
+				"DeliveryAddress" : "Blk 11, Hougang Ave 111, #11-999, Singapore 222222",
+				"deliveryDate" : "2021-03-16T00:00:00.000",
+				"DeliveryTime" : "12:30PM",
+				"RemarksForDriver" : "Please deliver at doorstep",
+				"Portal_Order_ID" : "1",
+				"NeedSMS" : true,
+				"Products" : [
+					{
+						"ProductCode" : "P11111",
+						"Qty" : 2,
+					},
+					{
+						"ProductCode" : "P11112",
+						"Qty" : 3,
+					}
+				],
+			}
+			]
+		},
+		{
+		"deliveryScheduleId" : 2,
+		"ERP_DriverId" : 1,
+		"deliveryDate" : "2021-03-17T00:00:00.000",
+		"shift" : "Evening",
+		"orders":[	
+			{
+				"ERP_DO_Id" : "DO111112",
+				"RecipientName" : "David",
+				"RecipientMobile" : "99998888",
+				"DeliveryAddress" : "Blk 11, Hougang Ave 111, #11-999, Singapore 222222",
+				"deliveryDate" : "2021-03-16T00:00:00.000",
+				"DeliveryTime" : "12:30PM",
+				"RemarksForDriver" : "Please deliver at doorstep",
+				"Portal_Order_ID" : "1",
+				"NeedSMS" : true,
+				"Products" : [
+					{
+						"ProductCode" : "P11113",
+						"Qty" : 2,
+					},
+					{
+						"ProductCode" : "P11114",
+						"Qty" : 3,
+					}
+				],
+			}
+			]
+		}
+	]
+}
